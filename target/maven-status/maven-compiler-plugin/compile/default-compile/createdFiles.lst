@@ -1,0 +1,17 @@
+com\tarasPlus\springmvc\model\Role.class
+com\tarasPlus\springmvc\controller\AuthorizationController.class
+com\tarasPlus\springmvc\config\AppInitializer.class
+com\tarasPlus\springmvc\dao\RoleRepository.class
+com\tarasPlus\springmvc\config\SecurityConfiguration.class
+com\tarasPlus\springmvc\config\AuthenticationSuccessHandlerImpl.class
+com\tarasPlus\springmvc\service\UserServiceImpl.class
+com\tarasPlus\springmvc\controller\UserController.class
+com\tarasPlus\springmvc\service\UserDetailsServiceImpl.class
+com\tarasPlus\springmvc\controller\RegistrationController.class
+com\tarasPlus\springmvc\config\WebConfig.class
+com\tarasPlus\springmvc\controller\AdminController.class
+com\tarasPlus\springmvc\config\HibernateConfig.class
+com\tarasPlus\springmvc\config\SecurityInit.class
+com\tarasPlus\springmvc\service\UserService.class
+com\tarasPlus\springmvc\model\User.class
+com\tarasPlus\springmvc\dao\UserRepository.class
